@@ -1,2 +1,1 @@
-# fit
-Fluid Innovation Thinking
+# Fluid Innovation Thinking
