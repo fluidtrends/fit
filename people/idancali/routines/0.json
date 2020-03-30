@@ -1,0 +1,14 @@
+{
+    "pushups": {
+        "target": 300,
+        "unit": "reps"
+    },
+    "bicepCurls": {
+        "target": 200,
+        "unit": "reps"
+    },
+    "water": {
+        "target": 80,
+        "unit": "oz"
+    }
+}
