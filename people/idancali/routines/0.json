@@ -1,14 +1,61 @@
 {
     "pushups": {
         "target": 300,
-        "unit": "reps"
+        "unit": "reps",
+        "actions": {
+            "set0": 60,
+            "set1": 60,
+            "set2": 60,
+            "set3": 60,
+            "set4": 60
+        }
     },
     "bicepCurls": {
         "target": 200,
-        "unit": "reps"
+        "unit": "reps",
+        "actions": {
+            "set0": 25,
+            "set1": 25,
+            "set2": 25,
+            "set3": 25,
+            "set4": 25,
+            "set5": 25,
+            "set6": 25,
+            "set7": 25
+        }
+    },
+    "crunches": {
+        "target": 100,
+        "unit": "reps",
+        "actions": {
+            "set0": 25,
+            "set1": 25,
+            "set2": 25,
+            "set3": 25
+        }
     },
     "water": {
         "target": 80,
-        "unit": "oz"
+        "unit": "oz",
+        "actions": {
+            "drink0": 4,
+            "drink1": 4,
+            "drink2": 4,
+            "drink3": 4,
+            "drink4": 4,
+            "drink5": 4,
+            "drink6": 4,
+            "drink7": 4,
+            "drink8": 4,
+            "drink9": 4,
+            "drink10": 4,
+            "drink11": 4,
+            "drink12": 4,
+            "drink13": 4,
+            "drink14": 4,
+            "drink15": 4,
+            "drink16": 4,
+            "drink17": 4
+        }
     }
 }
