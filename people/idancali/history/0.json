@@ -1,5 +1,5 @@
 {
-    "pushups": [],
-    "bicepCurls": [],
-    "water": []
+    "pushups": [60],
+    "bicepCurls": [25],
+    "water": [8, 8]
 }
